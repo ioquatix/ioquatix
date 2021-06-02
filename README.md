@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee. I am a Ruby core committer. Creator of @socketry [Async](https://github.com/socketry/async) & [Falcon](https://github.com/socketry/falcon).
+My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee. I am a Ruby core committer. Creator of [Async](https://github.com/socketry/async) & [Falcon](https://github.com/socketry/falcon).
 
 - 🔭 I’m currently working on improving Ruby's model for concurrency and building libraries to support highly scalable web applications.
 - 🌱 I’m currently learning about how to build a successful model for commercial open source.
