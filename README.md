@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ioquatix/ioquatix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee. I am a Ruby core committer. Creator of @socketry [Async](https://github.com/socketry/async) & [Falcon](https://github.com/socketry/falcon).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving Ruby's model for concurrency and building libraries to support highly scalable web applications.
+- 🌱 I’m currently learning about how to build a successful model for commercial open source.
+- 👯 I’m looking to collaborate on anything concurrency related.
+- 🤔 I’m looking for help with improving diversity in open source.
+- 💬 Ask me about anything to do with Ruby or concurrency.
+- 📫 How to reach me: [GitHub Discsusions](https://github.com/ioquatix/ioquatix/discussions)
+- 😄 Pronouns: he/him
+- 🥴 Indentation: tabs
+- ⚡ Fun fact: My cat likes to sit on my arms while I write code.
