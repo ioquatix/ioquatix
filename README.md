@@ -9,5 +9,5 @@ My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee
 - 💬 Ask me about anything to do with Ruby or concurrency.
 - 📫 How to reach me: [GitHub Discsusions](https://github.com/ioquatix/ioquatix/discussions)
 - 😄 Pronouns: he/him
-- 🥴 Indentation: tabs
+- 📜 Indentation: [tabs](https://github.com/ioquatix/universal-style-guide#indentation)
 - ⚡ Fun fact: My cat likes to sit on my arms while I write code.
