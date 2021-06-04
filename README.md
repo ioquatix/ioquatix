@@ -7,7 +7,7 @@ My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee
 - 👯 I’m looking to collaborate on anything concurrency related.
 - 🤔 I’m looking for help with improving diversity in open source.
 - 💬 Ask me about anything to do with Ruby or concurrency.
-- 📫 How to reach me: [GitHub Discsusions](https://github.com/ioquatix/ioquatix/discussions)
+- 📫 How to reach me: [GitHub Discussions](https://github.com/ioquatix/ioquatix/discussions)
 - 😄 Pronouns: he/him
 - 📜 Indentation: [tabs](https://github.com/ioquatix/universal-style-guide#indentation)
 - ⚡ Fun fact: My cat likes to sit on my arms while I write code.
