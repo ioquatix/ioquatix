@@ -18,3 +18,11 @@ You can trust gems that I release by downloading my certificates and running:
 $ gem cert --add release-2021.cert
 $ gem cert --add release-2022.cert
 ```
+
+You can then install one of my gems using the MediumSecurity profile:
+
+```
+$ gem install falcon -P MediumSecurity
+```
+
+The `MediumSecurity` trust profile will verify signed gems, but allow the installation of unsigned dependencies. This is necessary because not all of my dependencies are signed, so we cannot use `HighSecurity`.
