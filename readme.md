@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee. I am a Ruby core committer. Creator of [Async](https://github.com/socketry/async) & [Falcon](https://github.com/socketry/falcon).
 
@@ -13,3 +13,9 @@ My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee
 - ⚡ Fun fact: My cat likes to sit on my arms while I write code. At the time of writing she is 22 years old.
 
 ![IMG_1169](https://user-images.githubusercontent.com/30030/183272560-1ed60f0e-2ccc-4f62-b979-688ecd9c2a92.jpeg)
+
+## New Zealand Open Source Awards
+
+I am delighted to be part of the New Zealand Open Source community.
+
+![NZ-OSA-2021](https://github.com/ioquatix/ioquatix/assets/30030/a68172f1-18df-4e47-991c-03d8d17f2e46)
