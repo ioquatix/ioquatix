@@ -10,7 +10,7 @@ My name is Samuel and I'm from New Zealand. I like cats, programming, and coffee
 - 📫 How to reach me: [GitHub Discussions](https://github.com/ioquatix/ioquatix/discussions)
 - 😄 Pronouns: he/him
 - 📜 Indentation: [tabs](https://github.com/ioquatix/universal-style-guide#indentation)
-- ⚡ Fun fact: My cat likes to sit on my arms while I write code. At the time of writing she is 22 years old.
+- ⚡ Fun fact: My cat likes to sit on my arms while I write code. Unfortunately, she is no longer with us.
 
 ![IMG_1169](https://user-images.githubusercontent.com/30030/183272560-1ed60f0e-2ccc-4f62-b979-688ecd9c2a92.jpeg)
 
